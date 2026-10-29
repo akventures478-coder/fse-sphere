@@ -1,0 +1,15 @@
+FSE SPHERE — SUPABASE MULTI-USER SIGN-UP PACKAGE
+Build date: 2026-10-29
+
+Checks: inline JavaScript syntax passed; sign-up UI browser test passed with mocked Supabase Auth; embedded dashboard matches standalone; SQL parenthesis/policy-count checks passed.
+
+.nojekyll | 0 bytes | SHA256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FSE_Club_Dashboard.html | 820834 bytes | SHA256 1444d70eadaed346a3cde2a0c239fec86e995d9266888e72b5f4e55effd7a1ea
+README.txt | 3633 bytes | SHA256 a96a3dc3438d1fe4c533cb2fa5d174562557f46bb081914e6f084ebe7be5f617
+_headers | 216 bytes | SHA256 6c33f7af977cf25cd1d6277bd2d9234a7df054f08cb2b8fc90d2a1d1456924f2
+index.html | 1125109 bytes | SHA256 2578edf1a717d885fe42a744f2496a3c55ed2abf84c1c03af42a6743a1edc461
+netlify.toml | 429 bytes | SHA256 8af5faebf250ddbf83c641e2a2c120d2d238fd6fbf654c0a7e9a80ced9e039d9
+supabase/enable-public-signups.sql | 15790 bytes | SHA256 85373d49b6687506be3991e0af3f33c9084829d6bf470248fcba0eb0e120bde9
+supabase/schema.sql | 17434 bytes | SHA256 ee37726de3cb205b20f949428924e31f7be52281ef3a6ab4cc70d6cf3911636d
+supabase-config.js | 317 bytes | SHA256 271979f2cc87b20f7989deae5787c5de55f6a633ffed663f6e5a929aaede6e92
+vercel.json | 461 bytes | SHA256 7f3b62ff2fd1b8ce75d23ad551aba9e2c8c789c6ceacc1d90bfb4be64593e95e
