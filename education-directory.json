@@ -1,0 +1,2414 @@
+{
+  "institutions": [
+    {
+      "name": "Fortune Institute of International Business (FIIB)",
+      "logo": "assets/fse-logos/fiib.jpg",
+      "logo_type": "user_supplied"
+    },
+    {
+      "name": "Patliputra University",
+      "logo": "assets/fse-logos/patliputra-university.jpg",
+      "logo_type": "user_supplied"
+    },
+    {
+      "name": "Patna University",
+      "logo": "assets/college-marks/patna-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Magadh University",
+      "logo": "assets/college-marks/magadh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Nalanda Open University",
+      "logo": "assets/college-marks/nalanda-open-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chanakya National Law University",
+      "logo": "assets/college-marks/chanakya-national-law-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Aryabhatta Knowledge University",
+      "logo": "assets/college-marks/aryabhatta-knowledge-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Lalit Narayan Mithila University",
+      "logo": "assets/college-marks/lalit-narayan-mithila-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "B. R. Ambedkar Bihar University",
+      "logo": "assets/college-marks/b-r-ambedkar-bihar-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Veer Kunwar Singh University",
+      "logo": "assets/college-marks/veer-kunwar-singh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tilka Manjhi Bhagalpur University",
+      "logo": "assets/college-marks/tilka-manjhi-bhagalpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of South Bihar",
+      "logo": "assets/college-marks/central-university-of-south-bihar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Ahmedabad",
+      "logo": "assets/college-marks/indian-institute-of-management-ahmedabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Bangalore",
+      "logo": "assets/college-marks/indian-institute-of-management-bangalore.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Calcutta",
+      "logo": "assets/college-marks/indian-institute-of-management-calcutta.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Lucknow",
+      "logo": "assets/college-marks/indian-institute-of-management-lucknow.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Kozhikode",
+      "logo": "assets/college-marks/indian-institute-of-management-kozhikode.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Indore",
+      "logo": "assets/college-marks/indian-institute-of-management-indore.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Mumbai",
+      "logo": "assets/college-marks/indian-institute-of-management-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Shillong",
+      "logo": "assets/college-marks/indian-institute-of-management-shillong.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Rohtak",
+      "logo": "assets/college-marks/indian-institute-of-management-rohtak.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Ranchi",
+      "logo": "assets/college-marks/indian-institute-of-management-ranchi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Raipur",
+      "logo": "assets/college-marks/indian-institute-of-management-raipur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Tiruchirappalli",
+      "logo": "assets/college-marks/indian-institute-of-management-tiruchirappalli.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Udaipur",
+      "logo": "assets/college-marks/indian-institute-of-management-udaipur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Kashipur",
+      "logo": "assets/college-marks/indian-institute-of-management-kashipur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Nagpur",
+      "logo": "assets/college-marks/indian-institute-of-management-nagpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Bodh Gaya",
+      "logo": "assets/college-marks/indian-institute-of-management-bodh-gaya.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Amritsar",
+      "logo": "assets/college-marks/indian-institute-of-management-amritsar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Jammu",
+      "logo": "assets/college-marks/indian-institute-of-management-jammu.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Sambalpur",
+      "logo": "assets/college-marks/indian-institute-of-management-sambalpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Sirmaur",
+      "logo": "assets/college-marks/indian-institute-of-management-sirmaur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Visakhapatnam",
+      "logo": "assets/college-marks/indian-institute-of-management-visakhapatnam.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Delhi",
+      "logo": "assets/college-marks/indian-institute-of-technology-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Bombay",
+      "logo": "assets/college-marks/indian-institute-of-technology-bombay.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Madras",
+      "logo": "assets/college-marks/indian-institute-of-technology-madras.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Kanpur",
+      "logo": "assets/college-marks/indian-institute-of-technology-kanpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Kharagpur",
+      "logo": "assets/college-marks/indian-institute-of-technology-kharagpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Roorkee",
+      "logo": "assets/college-marks/indian-institute-of-technology-roorkee.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Guwahati",
+      "logo": "assets/college-marks/indian-institute-of-technology-guwahati.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Hyderabad",
+      "logo": "assets/college-marks/indian-institute-of-technology-hyderabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Patna",
+      "logo": "assets/college-marks/indian-institute-of-technology-patna.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology (BHU) Varanasi",
+      "logo": "assets/college-marks/indian-institute-of-technology-bhu-varanasi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Indore",
+      "logo": "assets/college-marks/indian-institute-of-technology-indore.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Ropar",
+      "logo": "assets/college-marks/indian-institute-of-technology-ropar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Patna",
+      "logo": "assets/college-marks/national-institute-of-technology-patna.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Tiruchirappalli",
+      "logo": "assets/college-marks/national-institute-of-technology-tiruchirappalli.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Warangal",
+      "logo": "assets/college-marks/national-institute-of-technology-warangal.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Karnataka, Surathkal",
+      "logo": "assets/college-marks/national-institute-of-technology-karnataka-surathkal.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Calicut",
+      "logo": "assets/college-marks/national-institute-of-technology-calicut.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Rourkela",
+      "logo": "assets/college-marks/national-institute-of-technology-rourkela.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Durgapur",
+      "logo": "assets/college-marks/national-institute-of-technology-durgapur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Silchar",
+      "logo": "assets/college-marks/national-institute-of-technology-silchar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Jamshedpur",
+      "logo": "assets/college-marks/national-institute-of-technology-jamshedpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Delhi",
+      "logo": "assets/college-marks/university-of-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jawaharlal Nehru University",
+      "logo": "assets/college-marks/jawaharlal-nehru-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jamia Millia Islamia",
+      "logo": "assets/college-marks/jamia-millia-islamia.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Aligarh Muslim University",
+      "logo": "assets/college-marks/aligarh-muslim-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Banaras Hindu University",
+      "logo": "assets/college-marks/banaras-hindu-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Calcutta",
+      "logo": "assets/college-marks/university-of-calcutta.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Mumbai",
+      "logo": "assets/college-marks/university-of-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Savitribai Phule Pune University",
+      "logo": "assets/college-marks/savitribai-phule-pune-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Hyderabad",
+      "logo": "assets/college-marks/university-of-hyderabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Osmania University",
+      "logo": "assets/college-marks/osmania-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Andhra University",
+      "logo": "assets/college-marks/andhra-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Madras",
+      "logo": "assets/college-marks/university-of-madras.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Anna University",
+      "logo": "assets/college-marks/anna-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bharathiar University",
+      "logo": "assets/college-marks/bharathiar-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Kerala",
+      "logo": "assets/college-marks/university-of-kerala.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mahatma Gandhi University",
+      "logo": "assets/college-marks/mahatma-gandhi-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jadavpur University",
+      "logo": "assets/college-marks/jadavpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gauhati University",
+      "logo": "assets/college-marks/gauhati-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Panjab University",
+      "logo": "assets/college-marks/panjab-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Guru Nanak Dev University",
+      "logo": "assets/college-marks/guru-nanak-dev-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kurukshetra University",
+      "logo": "assets/college-marks/kurukshetra-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharshi Dayanand University",
+      "logo": "assets/college-marks/maharshi-dayanand-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Deen Dayal Upadhyaya Gorakhpur University",
+      "logo": "assets/college-marks/deen-dayal-upadhyaya-gorakhpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Lucknow University",
+      "logo": "assets/college-marks/lucknow-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. A. P. J. Abdul Kalam Technical University",
+      "logo": "assets/college-marks/dr-a-p-j-abdul-kalam-technical-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Amity University",
+      "logo": "assets/college-marks/amity-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Lovely Professional University",
+      "logo": "assets/college-marks/lovely-professional-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chandigarh University",
+      "logo": "assets/college-marks/chandigarh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Shiv Nadar University",
+      "logo": "assets/college-marks/shiv-nadar-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ashoka University",
+      "logo": "assets/college-marks/ashoka-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "O. P. Jindal Global University",
+      "logo": "assets/college-marks/o-p-jindal-global-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Symbiosis International University",
+      "logo": "assets/college-marks/symbiosis-international-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bennett University",
+      "logo": "assets/college-marks/bennett-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Christ University",
+      "logo": "assets/college-marks/christ-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jain University",
+      "logo": "assets/college-marks/jain-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Xavier University Bhubaneswar",
+      "logo": "assets/college-marks/xavier-university-bhubaneswar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "XLRI Jamshedpur",
+      "logo": "assets/college-marks/xlri-jamshedpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tata Institute of Social Sciences",
+      "logo": "assets/college-marks/tata-institute-of-social-sciences.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "SPJIMR Mumbai",
+      "logo": "assets/college-marks/spjimr-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Narsee Monjee Institute of Management Studies",
+      "logo": "assets/college-marks/narsee-monjee-institute-of-management-studies.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Management Development Institute Gurgaon",
+      "logo": "assets/college-marks/management-development-institute-gurgaon.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "IMT Ghaziabad",
+      "logo": "assets/college-marks/imt-ghaziabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Institute of Management Technology Hyderabad",
+      "logo": "assets/college-marks/institute-of-management-technology-hyderabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "FORE School of Management",
+      "logo": "assets/college-marks/fore-school-of-management.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "International Management Institute New Delhi",
+      "logo": "assets/college-marks/international-management-institute-new-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Delhi School of Economics",
+      "logo": "assets/college-marks/delhi-school-of-economics.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian School of Business Hyderabad",
+      "logo": "assets/college-marks/indian-school-of-business-hyderabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law School of India University",
+      "logo": "assets/college-marks/national-law-school-of-india-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law University Delhi",
+      "logo": "assets/college-marks/national-law-university-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Fashion Technology",
+      "logo": "assets/college-marks/national-institute-of-fashion-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "All India Institute of Medical Sciences New Delhi",
+      "logo": "assets/college-marks/all-india-institute-of-medical-sciences-new-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Institute of Chemical Technology Mumbai",
+      "logo": "assets/college-marks/institute-of-chemical-technology-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "BITS Pilani",
+      "logo": "assets/college-marks/bits-pilani.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Manipal Academy of Higher Education",
+      "logo": "assets/college-marks/manipal-academy-of-higher-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Vellore Institute of Technology",
+      "logo": "assets/college-marks/vellore-institute-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "SRM Institute of Science and Technology",
+      "logo": "assets/college-marks/srm-institute-of-science-and-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Thapar Institute of Engineering and Technology",
+      "logo": "assets/college-marks/thapar-institute-of-engineering-and-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "PSG College of Technology",
+      "logo": "assets/college-marks/psg-college-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "College of Engineering Pune",
+      "logo": "assets/college-marks/college-of-engineering-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Netaji Subhas University of Technology",
+      "logo": "assets/college-marks/netaji-subhas-university-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indraprastha Institute of Information Technology Delhi",
+      "logo": "assets/college-marks/indraprastha-institute-of-information-technology-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+      "logo": "assets/college-marks/dr-b-r-ambedkar-national-institute-of-technology-jalandhar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jamia Hamdard",
+      "logo": "assets/college-marks/jamia-hamdard.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Bhubaneswar",
+      "logo": "assets/college-marks/indian-institute-of-technology-bhubaneswar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Gandhinagar",
+      "logo": "assets/college-marks/indian-institute-of-technology-gandhinagar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Mandi",
+      "logo": "assets/college-marks/indian-institute-of-technology-mandi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Jodhpur",
+      "logo": "assets/college-marks/indian-institute-of-technology-jodhpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Bhilai",
+      "logo": "assets/college-marks/indian-institute-of-technology-bhilai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Goa",
+      "logo": "assets/college-marks/indian-institute-of-technology-goa.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Jammu",
+      "logo": "assets/college-marks/indian-institute-of-technology-jammu.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Dharwad",
+      "logo": "assets/college-marks/indian-institute-of-technology-dharwad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Tirupati",
+      "logo": "assets/college-marks/indian-institute-of-technology-tirupati.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology Palakkad",
+      "logo": "assets/college-marks/indian-institute-of-technology-palakkad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Meghalaya",
+      "logo": "assets/college-marks/national-institute-of-technology-meghalaya.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Agartala",
+      "logo": "assets/college-marks/national-institute-of-technology-agartala.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Arunachal Pradesh",
+      "logo": "assets/college-marks/national-institute-of-technology-arunachal-pradesh.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Delhi",
+      "logo": "assets/college-marks/national-institute-of-technology-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Goa",
+      "logo": "assets/college-marks/national-institute-of-technology-goa.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Hamirpur",
+      "logo": "assets/college-marks/national-institute-of-technology-hamirpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Manipur",
+      "logo": "assets/college-marks/national-institute-of-technology-manipur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Mizoram",
+      "logo": "assets/college-marks/national-institute-of-technology-mizoram.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Nagaland",
+      "logo": "assets/college-marks/national-institute-of-technology-nagaland.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Puducherry",
+      "logo": "assets/college-marks/national-institute-of-technology-puducherry.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Sikkim",
+      "logo": "assets/college-marks/national-institute-of-technology-sikkim.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Srinagar",
+      "logo": "assets/college-marks/national-institute-of-technology-srinagar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Uttarakhand",
+      "logo": "assets/college-marks/national-institute-of-technology-uttarakhand.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Bengaluru",
+      "logo": "assets/college-marks/indian-institute-of-science-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Pune",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Kolkata",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Mohali",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-mohali.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Bhopal",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-bhopal.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Thiruvananthapuram",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-thiruvananthapuram.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Tirupati",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-tirupati.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Science Education and Research Berhampur",
+      "logo": "assets/college-marks/indian-institute-of-science-education-and-research-berhampur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Allahabad",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-allahabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Bangalore",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-bangalore.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Gwalior",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-gwalior.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Jabalpur",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-jabalpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Kancheepuram",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-kancheepuram.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Kota",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-kota.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Lucknow",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-lucknow.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Pune",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Sri City",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-sri-city.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Vadodara",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-vadodara.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Una",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-una.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Kalyani",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-kalyani.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Dharwad",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-dharwad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+      "logo": "assets/college-marks/indian-institute-of-information-technology-design-and-manufacturing-kurnool.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Foreign Trade Delhi",
+      "logo": "assets/college-marks/indian-institute-of-foreign-trade-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Foreign Trade Kolkata",
+      "logo": "assets/college-marks/indian-institute-of-foreign-trade-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Corporate Affairs",
+      "logo": "assets/college-marks/indian-institute-of-corporate-affairs.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Public Administration",
+      "logo": "assets/college-marks/indian-institute-of-public-administration.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Rural Management Anand",
+      "logo": "assets/college-marks/indian-institute-of-rural-management-anand.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Institute of Rural Management Anand",
+      "logo": "assets/college-marks/institute-of-rural-management-anand.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Bank Management Pune",
+      "logo": "assets/college-marks/national-institute-of-bank-management-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Insurance Academy Pune",
+      "logo": "assets/college-marks/national-insurance-academy-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Securities Markets Navi Mumbai",
+      "logo": "assets/college-marks/national-institute-of-securities-markets-navi-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Construction Management and Research Pune",
+      "logo": "assets/college-marks/national-institute-of-construction-management-and-research-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Allahabad",
+      "logo": "assets/college-marks/university-of-allahabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Rajasthan",
+      "logo": "assets/college-marks/central-university-of-rajasthan.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Gujarat",
+      "logo": "assets/college-marks/central-university-of-gujarat.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Haryana",
+      "logo": "assets/college-marks/central-university-of-haryana.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Jharkhand",
+      "logo": "assets/college-marks/central-university-of-jharkhand.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Karnataka",
+      "logo": "assets/college-marks/central-university-of-karnataka.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Kashmir",
+      "logo": "assets/college-marks/central-university-of-kashmir.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Kerala",
+      "logo": "assets/college-marks/central-university-of-kerala.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Punjab",
+      "logo": "assets/college-marks/central-university-of-punjab.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Tamil Nadu",
+      "logo": "assets/college-marks/central-university-of-tamil-nadu.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Jammu",
+      "logo": "assets/college-marks/central-university-of-jammu.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Himachal Pradesh",
+      "logo": "assets/college-marks/central-university-of-himachal-pradesh.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Odisha",
+      "logo": "assets/college-marks/central-university-of-odisha.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Andhra Pradesh",
+      "logo": "assets/college-marks/central-university-of-andhra-pradesh.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Central University of Telangana",
+      "logo": "assets/college-marks/central-university-of-telangana.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mahatma Gandhi Central University Motihari",
+      "logo": "assets/college-marks/mahatma-gandhi-central-university-motihari.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. Rajendra Prasad Central Agricultural University",
+      "logo": "assets/college-marks/dr-rajendra-prasad-central-agricultural-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Rani Lakshmi Bai Central Agricultural University",
+      "logo": "assets/college-marks/rani-lakshmi-bai-central-agricultural-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indira Gandhi National Tribal University",
+      "logo": "assets/college-marks/indira-gandhi-national-tribal-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Hemvati Nandan Bahuguna Garhwal University",
+      "logo": "assets/college-marks/hemvati-nandan-bahuguna-garhwal-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "North Eastern Hill University",
+      "logo": "assets/college-marks/north-eastern-hill-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tezpur University",
+      "logo": "assets/college-marks/tezpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tripura University",
+      "logo": "assets/college-marks/tripura-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mizoram University",
+      "logo": "assets/college-marks/mizoram-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Manipur University",
+      "logo": "assets/college-marks/manipur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Nagaland University",
+      "logo": "assets/college-marks/nagaland-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sikkim University",
+      "logo": "assets/college-marks/sikkim-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Assam University",
+      "logo": "assets/college-marks/assam-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Pondicherry University",
+      "logo": "assets/college-marks/pondicherry-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maulana Azad National Urdu University",
+      "logo": "assets/college-marks/maulana-azad-national-urdu-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indira Gandhi National Open University",
+      "logo": "assets/college-marks/indira-gandhi-national-open-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Babasaheb Bhimrao Ambedkar University",
+      "logo": "assets/college-marks/babasaheb-bhimrao-ambedkar-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. Harisingh Gour Vishwavidyalaya",
+      "logo": "assets/college-marks/dr-harisingh-gour-vishwavidyalaya.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Guru Ghasidas Vishwavidyalaya",
+      "logo": "assets/college-marks/guru-ghasidas-vishwavidyalaya.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya",
+      "logo": "assets/college-marks/mahatma-gandhi-antarrashtriya-hindi-vishwavidyalaya.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Rashtriya Sanskrit University",
+      "logo": "assets/college-marks/rashtriya-sanskrit-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Shri Lal Bahadur Shastri National Sanskrit University",
+      "logo": "assets/college-marks/shri-lal-bahadur-shastri-national-sanskrit-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Jammu",
+      "logo": "assets/college-marks/university-of-jammu.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Kashmir",
+      "logo": "assets/college-marks/university-of-kashmir.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Rajasthan",
+      "logo": "assets/college-marks/university-of-rajasthan.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mohanlal Sukhadia University",
+      "logo": "assets/college-marks/mohanlal-sukhadia-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jai Narain Vyas University",
+      "logo": "assets/college-marks/jai-narain-vyas-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharaja Ganga Singh University",
+      "logo": "assets/college-marks/maharaja-ganga-singh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Panjab University Chandigarh",
+      "logo": "assets/college-marks/panjab-university-chandigarh.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Guru Gobind Singh Indraprastha University",
+      "logo": "assets/college-marks/guru-gobind-singh-indraprastha-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ambedkar University Delhi",
+      "logo": "assets/college-marks/ambedkar-university-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Delhi Technological University",
+      "logo": "assets/college-marks/delhi-technological-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indira Gandhi Delhi Technical University for Women",
+      "logo": "assets/college-marks/indira-gandhi-delhi-technical-university-for-women.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. B. R. Ambedkar University Delhi",
+      "logo": "assets/college-marks/dr-b-r-ambedkar-university-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gautam Buddha University",
+      "logo": "assets/college-marks/gautam-buddha-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bundelkhand University",
+      "logo": "assets/college-marks/bundelkhand-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chaudhary Charan Singh University",
+      "logo": "assets/college-marks/chaudhary-charan-singh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. Ram Manohar Lohia Avadh University",
+      "logo": "assets/college-marks/dr-ram-manohar-lohia-avadh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Madan Mohan Malaviya University of Technology",
+      "logo": "assets/college-marks/madan-mohan-malaviya-university-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Deenbandhu Chhotu Ram University of Science and Technology",
+      "logo": "assets/college-marks/deenbandhu-chhotu-ram-university-of-science-and-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Haryana Agricultural University",
+      "logo": "assets/college-marks/haryana-agricultural-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Guru Jambheshwar University of Science and Technology",
+      "logo": "assets/college-marks/guru-jambheshwar-university-of-science-and-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dharmsinh Desai University",
+      "logo": "assets/college-marks/dharmsinh-desai-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sardar Patel University",
+      "logo": "assets/college-marks/sardar-patel-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gujarat University",
+      "logo": "assets/college-marks/gujarat-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharaja Sayajirao University of Baroda",
+      "logo": "assets/college-marks/maharaja-sayajirao-university-of-baroda.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Veer Narmad South Gujarat University",
+      "logo": "assets/college-marks/veer-narmad-south-gujarat-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Saurashtra University",
+      "logo": "assets/college-marks/saurashtra-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Krantiguru Shyamji Krishna Verma Kachchh University",
+      "logo": "assets/college-marks/krantiguru-shyamji-krishna-verma-kachchh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+      "logo": "assets/college-marks/rashtrasant-tukadoji-maharaj-nagpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Shivaji University Kolhapur",
+      "logo": "assets/college-marks/shivaji-university-kolhapur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. Babasaheb Ambedkar Marathwada University",
+      "logo": "assets/college-marks/dr-babasaheb-ambedkar-marathwada-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sant Gadge Baba Amravati University",
+      "logo": "assets/college-marks/sant-gadge-baba-amravati-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "North Maharashtra University",
+      "logo": "assets/college-marks/north-maharashtra-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "SNDT Women’s University",
+      "logo": "assets/college-marks/sndt-women-s-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Lucknow",
+      "logo": "assets/college-marks/university-of-lucknow.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. A.P.J. Abdul Kalam Technical University Lucknow",
+      "logo": "assets/college-marks/dr-a-p-j-abdul-kalam-technical-university-lucknow.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gorakhpur University",
+      "logo": "assets/college-marks/gorakhpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Rohilkhand University",
+      "logo": "assets/college-marks/rohilkhand-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chhatrapati Shahu Ji Maharaj University",
+      "logo": "assets/college-marks/chhatrapati-shahu-ji-maharaj-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttarakhand Technical University",
+      "logo": "assets/college-marks/uttarakhand-technical-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kumaun University",
+      "logo": "assets/college-marks/kumaun-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttarakhand Open University",
+      "logo": "assets/college-marks/uttarakhand-open-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Himachal Pradesh University",
+      "logo": "assets/college-marks/himachal-pradesh-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jai Prakash University",
+      "logo": "assets/college-marks/jai-prakash-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Veer Bahadur Singh Purvanchal University",
+      "logo": "assets/college-marks/veer-bahadur-singh-purvanchal-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mahatma Gandhi Kashi Vidyapith",
+      "logo": "assets/college-marks/mahatma-gandhi-kashi-vidyapith.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ranchi University",
+      "logo": "assets/college-marks/ranchi-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kolhan University",
+      "logo": "assets/college-marks/kolhan-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Vinoba Bhave University",
+      "logo": "assets/college-marks/vinoba-bhave-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sidho-Kanho-Birsha University",
+      "logo": "assets/college-marks/sidho-kanho-birsha-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Utkal University",
+      "logo": "assets/college-marks/utkal-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sambalpur University",
+      "logo": "assets/college-marks/sambalpur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Berhampur University",
+      "logo": "assets/college-marks/berhampur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Fakir Mohan University",
+      "logo": "assets/college-marks/fakir-mohan-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ravenshaw University",
+      "logo": "assets/college-marks/ravenshaw-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "North Orissa University",
+      "logo": "assets/college-marks/north-orissa-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Biju Patnaik University of Technology",
+      "logo": "assets/college-marks/biju-patnaik-university-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kalinga Institute of Industrial Technology",
+      "logo": "assets/college-marks/kalinga-institute-of-industrial-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "KIIT Deemed to be University",
+      "logo": "assets/college-marks/kiit-deemed-to-be-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "SOA University",
+      "logo": "assets/college-marks/soa-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bengaluru City University",
+      "logo": "assets/college-marks/bengaluru-city-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bangalore University",
+      "logo": "assets/college-marks/bangalore-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Mysore",
+      "logo": "assets/college-marks/university-of-mysore.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kuvempu University",
+      "logo": "assets/college-marks/kuvempu-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mangalore University",
+      "logo": "assets/college-marks/mangalore-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Karnatak University Dharwad",
+      "logo": "assets/college-marks/karnatak-university-dharwad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Visvesvaraya Technological University",
+      "logo": "assets/college-marks/visvesvaraya-technological-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "PES University",
+      "logo": "assets/college-marks/pes-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Agricultural Sciences Bengaluru",
+      "logo": "assets/college-marks/university-of-agricultural-sciences-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kerala University of Digital Sciences Innovation and Technology",
+      "logo": "assets/college-marks/kerala-university-of-digital-sciences-innovation-and-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "University of Calicut",
+      "logo": "assets/college-marks/university-of-calicut.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kannur University",
+      "logo": "assets/college-marks/kannur-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Cochin University of Science and Technology",
+      "logo": "assets/college-marks/cochin-university-of-science-and-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "APJ Abdul Kalam Technological University Kerala",
+      "logo": "assets/college-marks/apj-abdul-kalam-technological-university-kerala.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kerala Agricultural University",
+      "logo": "assets/college-marks/kerala-agricultural-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tamil Nadu Dr. Ambedkar Law University",
+      "logo": "assets/college-marks/tamil-nadu-dr-ambedkar-law-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Annamalai University",
+      "logo": "assets/college-marks/annamalai-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Alagappa University",
+      "logo": "assets/college-marks/alagappa-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Madurai Kamaraj University",
+      "logo": "assets/college-marks/madurai-kamaraj-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Periyar University",
+      "logo": "assets/college-marks/periyar-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Manonmaniam Sundaranar University",
+      "logo": "assets/college-marks/manonmaniam-sundaranar-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tamil Nadu Agricultural University",
+      "logo": "assets/college-marks/tamil-nadu-agricultural-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tamil Nadu Open University",
+      "logo": "assets/college-marks/tamil-nadu-open-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bharathidasan University",
+      "logo": "assets/college-marks/bharathidasan-university.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kalasalingam Academy of Research and Education",
+      "logo": "assets/college-marks/kalasalingam-academy-of-research-and-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kumaraguru College of Technology",
+      "logo": "assets/college-marks/kumaraguru-college-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "PSG Institute of Technology and Applied Research",
+      "logo": "assets/college-marks/psg-institute-of-technology-and-applied-research.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "R. V. College of Engineering",
+      "logo": "assets/college-marks/r-v-college-of-engineering.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "BMS College of Engineering",
+      "logo": "assets/college-marks/bms-college-of-engineering.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "M. S. Ramaiah Institute of Technology",
+      "logo": "assets/college-marks/m-s-ramaiah-institute-of-technology.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Mental Health and Neuro Sciences",
+      "logo": "assets/college-marks/national-institute-of-mental-health-and-neuro-sciences.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tata Institute of Fundamental Research",
+      "logo": "assets/college-marks/tata-institute-of-fundamental-research.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Homi Bhabha National Institute",
+      "logo": "assets/college-marks/homi-bhabha-national-institute.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Statistical Institute Kolkata",
+      "logo": "assets/college-marks/indian-statistical-institute-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Statistical Institute Bengaluru",
+      "logo": "assets/college-marks/indian-statistical-institute-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Statistical Institute Delhi",
+      "logo": "assets/college-marks/indian-statistical-institute-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Ahmedabad",
+      "logo": "assets/college-marks/national-institute-of-design-ahmedabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Gandhinagar",
+      "logo": "assets/college-marks/national-institute-of-design-gandhinagar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Bengaluru",
+      "logo": "assets/college-marks/national-institute-of-design-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Andhra Pradesh",
+      "logo": "assets/college-marks/national-institute-of-design-andhra-pradesh.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Haryana",
+      "logo": "assets/college-marks/national-institute-of-design-haryana.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Madhya Pradesh",
+      "logo": "assets/college-marks/national-institute-of-design-madhya-pradesh.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Assam",
+      "logo": "assets/college-marks/national-institute-of-design-assam.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Design Jorhat",
+      "logo": "assets/college-marks/national-institute-of-design-jorhat.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Pharmaceutical Education and Research Mohali",
+      "logo": "assets/college-marks/national-institute-of-pharmaceutical-education-and-research-mohali.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Pharmaceutical Education and Research Hyderabad",
+      "logo": "assets/college-marks/national-institute-of-pharmaceutical-education-and-research-hyderabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Pharmaceutical Education and Research Ahmedabad",
+      "logo": "assets/college-marks/national-institute-of-pharmaceutical-education-and-research-ahmedabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Pharmaceutical Education and Research Guwahati",
+      "logo": "assets/college-marks/national-institute-of-pharmaceutical-education-and-research-guwahati.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Pharmaceutical Education and Research Kolkata",
+      "logo": "assets/college-marks/national-institute-of-pharmaceutical-education-and-research-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Pharmaceutical Education and Research Raebareli",
+      "logo": "assets/college-marks/national-institute-of-pharmaceutical-education-and-research-raebareli.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "School of Planning and Architecture Delhi",
+      "logo": "assets/college-marks/school-of-planning-and-architecture-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "School of Planning and Architecture Bhopal",
+      "logo": "assets/college-marks/school-of-planning-and-architecture-bhopal.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "School of Planning and Architecture Vijayawada",
+      "logo": "assets/college-marks/school-of-planning-and-architecture-vijayawada.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology and Management",
+      "logo": "assets/college-marks/national-institute-of-technology-and-management.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Food Technology Entrepreneurship and Management Kundli",
+      "logo": "assets/college-marks/national-institute-of-food-technology-entrepreneurship-and-management-kundli.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
+      "logo": "assets/college-marks/national-institute-of-food-technology-entrepreneurship-and-management-thanjavur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law University Jodhpur",
+      "logo": "assets/college-marks/national-law-university-jodhpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "NALSAR University of Law Hyderabad",
+      "logo": "assets/college-marks/nalsar-university-of-law-hyderabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National University of Juridical Sciences Kolkata",
+      "logo": "assets/college-marks/national-university-of-juridical-sciences-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gujarat National Law University Gandhinagar",
+      "logo": "assets/college-marks/gujarat-national-law-university-gandhinagar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Hidayatullah National Law University Raipur",
+      "logo": "assets/college-marks/hidayatullah-national-law-university-raipur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law Institute University Bhopal",
+      "logo": "assets/college-marks/national-law-institute-university-bhopal.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Rajiv Gandhi National University of Law Patiala",
+      "logo": "assets/college-marks/rajiv-gandhi-national-university-of-law-patiala.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dr. Ram Manohar Lohiya National Law University Lucknow",
+      "logo": "assets/college-marks/dr-ram-manohar-lohiya-national-law-university-lucknow.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chanakya National Law University Patna",
+      "logo": "assets/college-marks/chanakya-national-law-university-patna.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National University of Advanced Legal Studies Kochi",
+      "logo": "assets/college-marks/national-university-of-advanced-legal-studies-kochi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tamil Nadu National Law University Tiruchirappalli",
+      "logo": "assets/college-marks/tamil-nadu-national-law-university-tiruchirappalli.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharashtra National Law University Mumbai",
+      "logo": "assets/college-marks/maharashtra-national-law-university-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharashtra National Law University Nagpur",
+      "logo": "assets/college-marks/maharashtra-national-law-university-nagpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharashtra National Law University Aurangabad",
+      "logo": "assets/college-marks/maharashtra-national-law-university-aurangabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law University Odisha Cuttack",
+      "logo": "assets/college-marks/national-law-university-odisha-cuttack.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Damodaram Sanjivayya National Law University Visakhapatnam",
+      "logo": "assets/college-marks/damodaram-sanjivayya-national-law-university-visakhapatnam.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law University and Judicial Academy Assam",
+      "logo": "assets/college-marks/national-law-university-and-judicial-academy-assam.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Law University Tripura",
+      "logo": "assets/college-marks/national-law-university-tripura.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Dharmashastra National Law University Jabalpur",
+      "logo": "assets/college-marks/dharmashastra-national-law-university-jabalpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Technology (ISM) Dhanbad",
+      "logo": "assets/college-marks/indian-institute-of-technology-ism-dhanbad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Jalandhar",
+      "logo": "assets/college-marks/national-institute-of-technology-jalandhar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Technology Kurukshetra",
+      "logo": "assets/college-marks/national-institute-of-technology-kurukshetra.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Xavier School of Management Jamshedpur",
+      "logo": "assets/college-marks/xavier-school-of-management-jamshedpur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Xavier Institute of Management Bhubaneswar",
+      "logo": "assets/college-marks/xavier-institute-of-management-bhubaneswar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "T. A. Pai Management Institute Manipal",
+      "logo": "assets/college-marks/t-a-pai-management-institute-manipal.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Institute of Management Technology Ghaziabad",
+      "logo": "assets/college-marks/institute-of-management-technology-ghaziabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Great Lakes Institute of Management Chennai",
+      "logo": "assets/college-marks/great-lakes-institute-of-management-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "K. J. Somaiya Institute of Management Mumbai",
+      "logo": "assets/college-marks/k-j-somaiya-institute-of-management-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Welingkar Institute of Management Mumbai",
+      "logo": "assets/college-marks/welingkar-institute-of-management-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Lal Bahadur Shastri Institute of Management Delhi",
+      "logo": "assets/college-marks/lal-bahadur-shastri-institute-of-management-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jaipuria Institute of Management Lucknow",
+      "logo": "assets/college-marks/jaipuria-institute-of-management-lucknow.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jaipuria Institute of Management Noida",
+      "logo": "assets/college-marks/jaipuria-institute-of-management-noida.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jaipuria Institute of Management Jaipur",
+      "logo": "assets/college-marks/jaipuria-institute-of-management-jaipur.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jaipuria Institute of Management Indore",
+      "logo": "assets/college-marks/jaipuria-institute-of-management-indore.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "BIMTECH Greater Noida",
+      "logo": "assets/college-marks/bimtech-greater-noida.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bharatiya Vidya Bhavan Usha and Lakshmi Mittal Institute of Management",
+      "logo": "assets/college-marks/bharatiya-vidya-bhavan-usha-and-lakshmi-mittal-institute-of-management.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "N. L. Dalmia Institute of Management Studies and Research",
+      "logo": "assets/college-marks/n-l-dalmia-institute-of-management-studies-and-research.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Industrial Engineering Mumbai",
+      "logo": "assets/college-marks/national-institute-of-industrial-engineering-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Indian Institute of Management Studies",
+      "logo": "assets/college-marks/indian-institute-of-management-studies.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "MICA Ahmedabad",
+      "logo": "assets/college-marks/mica-ahmedabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mudra Institute of Communications Ahmedabad",
+      "logo": "assets/college-marks/mudra-institute-of-communications-ahmedabad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Narsee Monjee Institute of Management Studies Mumbai",
+      "logo": "assets/college-marks/narsee-monjee-institute-of-management-studies-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Symbiosis Institute of Business Management Pune",
+      "logo": "assets/college-marks/symbiosis-institute-of-business-management-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Symbiosis Institute of International Business Pune",
+      "logo": "assets/college-marks/symbiosis-institute-of-international-business-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Pune Institute of Business Management",
+      "logo": "assets/college-marks/pune-institute-of-business-management.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Apeejay School of Management Delhi",
+      "logo": "assets/college-marks/apeejay-school-of-management-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Delhi Institute of Advanced Studies",
+      "logo": "assets/college-marks/delhi-institute-of-advanced-studies.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jagan Institute of Management Studies Delhi",
+      "logo": "assets/college-marks/jagan-institute-of-management-studies-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Fortune Institute of International Business New Delhi",
+      "logo": "assets/fse-logos/fiib.jpg",
+      "logo_type": "user_supplied"
+    },
+    {
+      "name": "Fergusson College Pune",
+      "logo": "assets/college-marks/fergusson-college-pune.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "St. Xavier’s College Mumbai",
+      "logo": "assets/college-marks/st-xavier-s-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "St. Xavier’s College Kolkata",
+      "logo": "assets/college-marks/st-xavier-s-college-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "St. Stephen’s College Delhi",
+      "logo": "assets/college-marks/st-stephen-s-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Hindu College Delhi",
+      "logo": "assets/college-marks/hindu-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Hansraj College Delhi",
+      "logo": "assets/college-marks/hansraj-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kirori Mal College Delhi",
+      "logo": "assets/college-marks/kirori-mal-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Miranda House Delhi",
+      "logo": "assets/college-marks/miranda-house-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Lady Shri Ram College for Women Delhi",
+      "logo": "assets/college-marks/lady-shri-ram-college-for-women-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Shri Ram College of Commerce Delhi",
+      "logo": "assets/college-marks/shri-ram-college-of-commerce-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ramjas College Delhi",
+      "logo": "assets/college-marks/ramjas-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jesus and Mary College Delhi",
+      "logo": "assets/college-marks/jesus-and-mary-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Atma Ram Sanatan Dharma College Delhi",
+      "logo": "assets/college-marks/atma-ram-sanatan-dharma-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sri Venkateswara College Delhi",
+      "logo": "assets/college-marks/sri-venkateswara-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gargi College Delhi",
+      "logo": "assets/college-marks/gargi-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Shaheed Sukhdev College of Business Studies Delhi",
+      "logo": "assets/college-marks/shaheed-sukhdev-college-of-business-studies-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maitreyi College Delhi",
+      "logo": "assets/college-marks/maitreyi-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Daulat Ram College Delhi",
+      "logo": "assets/college-marks/daulat-ram-college-delhi.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mithibai College Mumbai",
+      "logo": "assets/college-marks/mithibai-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jai Hind College Mumbai",
+      "logo": "assets/college-marks/jai-hind-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "K. C. College Mumbai",
+      "logo": "assets/college-marks/k-c-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "HR College of Commerce and Economics Mumbai",
+      "logo": "assets/college-marks/hr-college-of-commerce-and-economics-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ramnarain Ruia College Mumbai",
+      "logo": "assets/college-marks/ramnarain-ruia-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Wilson College Mumbai",
+      "logo": "assets/college-marks/wilson-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Elphinstone College Mumbai",
+      "logo": "assets/college-marks/elphinstone-college-mumbai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Loyola College Chennai",
+      "logo": "assets/college-marks/loyola-college-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Presidency College Chennai",
+      "logo": "assets/college-marks/presidency-college-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Madras Christian College Chennai",
+      "logo": "assets/college-marks/madras-christian-college-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ethiraj College for Women Chennai",
+      "logo": "assets/college-marks/ethiraj-college-for-women-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Stella Maris College Chennai",
+      "logo": "assets/college-marks/stella-maris-college-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Hindustan Institute of Technology and Science Chennai",
+      "logo": "assets/college-marks/hindustan-institute-of-technology-and-science-chennai.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mount Carmel College Bengaluru",
+      "logo": "assets/college-marks/mount-carmel-college-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "St. Joseph’s University Bengaluru",
+      "logo": "assets/college-marks/st-joseph-s-university-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Christ University Bengaluru",
+      "logo": "assets/college-marks/christ-university-bengaluru.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Scottish Church College Kolkata",
+      "logo": "assets/college-marks/scottish-church-college-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Presidency University Kolkata",
+      "logo": "assets/college-marks/presidency-university-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bethune College Kolkata",
+      "logo": "assets/college-marks/bethune-college-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ramakrishna Mission Vivekananda Centenary College",
+      "logo": "assets/college-marks/ramakrishna-mission-vivekananda-centenary-college.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "St. Xavier’s University Kolkata",
+      "logo": "assets/college-marks/st-xavier-s-university-kolkata.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Ravenshaw College Cuttack",
+      "logo": "assets/college-marks/ravenshaw-college-cuttack.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Khalsa College Amritsar",
+      "logo": "assets/college-marks/khalsa-college-amritsar.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Other — type your college",
+      "logo": null,
+      "logo_type": "user_entry"
+    }
+  ],
+  "school_boards": [
+    {
+      "name": "Central Board of Secondary Education (CBSE)",
+      "logo": "assets/education-boards/central-board-of-secondary-education-cbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Council for the Indian School Certificate Examinations (CISCE / ICSE / ISC)",
+      "logo": "assets/education-boards/council-for-the-indian-school-certificate-examinations-cisce-icse-isc.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "National Institute of Open Schooling (NIOS)",
+      "logo": "assets/education-boards/national-institute-of-open-schooling-nios.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Cambridge International Education",
+      "logo": "assets/education-boards/cambridge-international-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "International Baccalaureate (IB)",
+      "logo": "assets/education-boards/international-baccalaureate-ib.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Andhra Pradesh Board of Intermediate Education (BIEAP)",
+      "logo": "assets/education-boards/andhra-pradesh-board-of-intermediate-education-bieap.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Andhra Pradesh (BSEAP)",
+      "logo": "assets/education-boards/board-of-secondary-education-andhra-pradesh-bseap.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Andhra Pradesh Open School Society",
+      "logo": "assets/education-boards/andhra-pradesh-open-school-society.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Assam Higher Secondary Education Council (AHSEC)",
+      "logo": "assets/education-boards/assam-higher-secondary-education-council-ahsec.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Assam (SEBA)",
+      "logo": "assets/education-boards/board-of-secondary-education-assam-seba.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Assam State Madrassa Education Board",
+      "logo": "assets/education-boards/assam-state-madrassa-education-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bihar School Examination Board (BSEB)",
+      "logo": "assets/education-boards/bihar-school-examination-board-bseb.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bihar Board of Open Schooling and Examination (BBOSE)",
+      "logo": "assets/education-boards/bihar-board-of-open-schooling-and-examination-bbose.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bihar State Madrasa Education Board",
+      "logo": "assets/education-boards/bihar-state-madrasa-education-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bihar Sanskrit Shiksha Board",
+      "logo": "assets/education-boards/bihar-sanskrit-shiksha-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chhattisgarh Board of Secondary Education (CGBSE)",
+      "logo": "assets/education-boards/chhattisgarh-board-of-secondary-education-cgbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chhattisgarh State Open School",
+      "logo": "assets/education-boards/chhattisgarh-state-open-school.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Chhattisgarh Sanskrit Board",
+      "logo": "assets/education-boards/chhattisgarh-sanskrit-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Goa Board of Secondary and Higher Secondary Education (GBSHSE)",
+      "logo": "assets/education-boards/goa-board-of-secondary-and-higher-secondary-education-gbshse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Gujarat Secondary and Higher Secondary Education Board (GSEB)",
+      "logo": "assets/education-boards/gujarat-secondary-and-higher-secondary-education-board-gseb.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of School Education Haryana (BSEH / HBSE)",
+      "logo": "assets/education-boards/board-of-school-education-haryana-bseh-hbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Himachal Pradesh Board of School Education (HPBOSE)",
+      "logo": "assets/education-boards/himachal-pradesh-board-of-school-education-hpbose.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jammu and Kashmir Board of School Education (JKBOSE)",
+      "logo": "assets/education-boards/jammu-and-kashmir-board-of-school-education-jkbose.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jammu and Kashmir State Open School",
+      "logo": "assets/education-boards/jammu-and-kashmir-state-open-school.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Jharkhand Academic Council (JAC)",
+      "logo": "assets/education-boards/jharkhand-academic-council-jac.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Karnataka School Examination and Assessment Board (KSEAB)",
+      "logo": "assets/education-boards/karnataka-school-examination-and-assessment-board-kseab.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Karnataka Department of Pre-University Education",
+      "logo": "assets/education-boards/karnataka-department-of-pre-university-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Karnataka State Open School",
+      "logo": "assets/education-boards/karnataka-state-open-school.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kerala Board of Public Examinations (KBPE)",
+      "logo": "assets/education-boards/kerala-board-of-public-examinations-kbpe.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Kerala Directorate of Higher Secondary Education (DHSE)",
+      "logo": "assets/education-boards/kerala-directorate-of-higher-secondary-education-dhse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Vocational Higher Secondary Education, Kerala",
+      "logo": "assets/education-boards/board-of-vocational-higher-secondary-education-kerala.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE)",
+      "logo": "assets/education-boards/maharashtra-state-board-of-secondary-and-higher-secondary-education-msbshse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Maharashtra State Open School",
+      "logo": "assets/education-boards/maharashtra-state-open-school.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Madhya Pradesh (MPBSE)",
+      "logo": "assets/education-boards/board-of-secondary-education-madhya-pradesh-mpbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Madhya Pradesh State Open School Education Board",
+      "logo": "assets/education-boards/madhya-pradesh-state-open-school-education-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Manipur (BSEM)",
+      "logo": "assets/education-boards/board-of-secondary-education-manipur-bsem.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Council of Higher Secondary Education, Manipur (COHSEM)",
+      "logo": "assets/education-boards/council-of-higher-secondary-education-manipur-cohsem.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Meghalaya Board of School Education (MBOSE)",
+      "logo": "assets/education-boards/meghalaya-board-of-school-education-mbose.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Mizoram Board of School Education (MBSE)",
+      "logo": "assets/education-boards/mizoram-board-of-school-education-mbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Nagaland Board of School Education (NBSE)",
+      "logo": "assets/education-boards/nagaland-board-of-school-education-nbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Council of Higher Secondary Education, Odisha (CHSE Odisha)",
+      "logo": "assets/education-boards/council-of-higher-secondary-education-odisha-chse-odisha.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Odisha (BSE Odisha)",
+      "logo": "assets/education-boards/board-of-secondary-education-odisha-bse-odisha.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Punjab School Education Board (PSEB)",
+      "logo": "assets/education-boards/punjab-school-education-board-pseb.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Rajasthan (RBSE / BSER)",
+      "logo": "assets/education-boards/board-of-secondary-education-rajasthan-rbse-bser.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Rajasthan State Open School",
+      "logo": "assets/education-boards/rajasthan-state-open-school.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tamil Nadu State Board / State Common Board of School Education",
+      "logo": "assets/education-boards/tamil-nadu-state-board-state-common-board-of-school-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Telangana State Board of Intermediate Education (TGBIE)",
+      "logo": "assets/education-boards/telangana-state-board-of-intermediate-education-tgbie.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Secondary Education, Telangana (BSE Telangana)",
+      "logo": "assets/education-boards/board-of-secondary-education-telangana-bse-telangana.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Telangana Open School Society (TOSS)",
+      "logo": "assets/education-boards/telangana-open-school-society-toss.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Tripura Board of Secondary Education (TBSE)",
+      "logo": "assets/education-boards/tripura-board-of-secondary-education-tbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP)",
+      "logo": "assets/education-boards/uttar-pradesh-madhyamik-shiksha-parishad-upmsp.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttar Pradesh Board of Sanskrit Education",
+      "logo": "assets/education-boards/uttar-pradesh-board-of-sanskrit-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttar Pradesh Board of Madarsa Education",
+      "logo": "assets/education-boards/uttar-pradesh-board-of-madarsa-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of School Education Uttarakhand (UBSE)",
+      "logo": "assets/education-boards/board-of-school-education-uttarakhand-ubse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttarakhand Sanskrit Shiksha Parishad",
+      "logo": "assets/education-boards/uttarakhand-sanskrit-shiksha-parishad.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Uttarakhand Madrasa Education Board",
+      "logo": "assets/education-boards/uttarakhand-madrasa-education-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "West Bengal Board of Secondary Education (WBBSE)",
+      "logo": "assets/education-boards/west-bengal-board-of-secondary-education-wbbse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "West Bengal Council of Higher Secondary Education (WBCHSE)",
+      "logo": "assets/education-boards/west-bengal-council-of-higher-secondary-education-wbchse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "West Bengal Board of Madrasah Education (WBBME)",
+      "logo": "assets/education-boards/west-bengal-board-of-madrasah-education-wbbme.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "West Bengal Council of Rabindra Open Schooling (WBCROS)",
+      "logo": "assets/education-boards/west-bengal-council-of-rabindra-open-schooling-wbcros.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "West Bengal Council of Technical and Vocational Education and Skill Development",
+      "logo": "assets/education-boards/west-bengal-council-of-technical-and-vocational-education-and-skill-development.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Sikkim Board of Secondary Education",
+      "logo": "assets/education-boards/sikkim-board-of-secondary-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Delhi Board of School Education",
+      "logo": "assets/education-boards/delhi-board-of-school-education.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Bharatiya Shiksha Board",
+      "logo": "assets/education-boards/bharatiya-shiksha-board.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Board of Open Schooling and Skill Education (BOSSE)",
+      "logo": "assets/education-boards/board-of-open-schooling-and-skill-education-bosse.svg",
+      "logo_type": "generated_monogram"
+    },
+    {
+      "name": "Other — type your board",
+      "logo": null,
+      "logo_type": "user_entry"
+    }
+  ],
+  "official_institution_directory": "https://dashboard.aishe.gov.in/hedirectory/",
+  "official_board_reference": "https://www.cobse.org.in/recognized-educational-boards-list/",
+  "note": "Curated suggestion data. This is not a complete national database. Generated monogram marks are not official logos."
+}
